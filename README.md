@@ -39,5 +39,5 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaageng&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  /> -->
     <!-- theme=radical -->
     <img src="https://github-readme-stats.vercel.app/api?username=agoesm&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaageng&layout=compact&theme=radical&hide_border=false" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agoesm&layout=compact&theme=radical&hide_border=false" height="150" alt="stats graph"  />
 </div>
