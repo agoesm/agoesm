@@ -18,7 +18,7 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=dart,js,html,css&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,dart,html,css&theme=dark" />
 </div>
 
 <h2 align="left" style="color:white;">Frameworks, Libraries & Platforms</h2>
@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,materialui,redux,jest,firebase,stackoverflow,discord&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,materialui,redux,jest,firebase,stackoverflow,discord&theme=dark" />
 </div>
 
 <h2 align="left" style="color:white;">Stats</h2>
